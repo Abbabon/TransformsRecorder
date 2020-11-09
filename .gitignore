@@ -1,0 +1,66 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+[Ll]ibrary/
+sysinfo.txt
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+*.DotSettings
+Assets/UnityVS
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+[Tt]humbs.db
+
+
+# ============== #
+# Build Products #
+# ============== #
+*.apk
+*.exe
+*.ipa
+.vs/
+Build/
+Standalone Builds/
+
+.idea
+.idea/*
+
+#==================#
+# Android manifest #
+# ================ #
+//Assets/Plugins/Android/AndroidManifest.xml
+//Assets/Plugins/Android/AndroidManifest.xml.meta
+
+
+#=============#
+# Crashlytics #
+# =========== #
+Assets/StreamingAssets/crashlytics-build.properties
+Assets/Plugins/Android/fabric/res/values/strings.xml.meta
+Assets/StreamingAssets/crashlytics-build.properties.meta
+
+#=============#
+# Entitas Code Generation #
+# =========== #
+!jenny.exe
+SQLitePCLRaw.core.dll

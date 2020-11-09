@@ -1,0 +1,182 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1513b9c1750a496ab5f171f9d2c859df, type: 3}
+  m_Name: TransformDataContainer-T-Pose
+  m_EditorClassIdentifier: 
+  parentNode:
+    NodeTransformData:
+      Position: {x: 0, y: 0, z: 0}
+      Rotation: {x: -0, y: -0, z: -0, w: 1}
+      Scale: {x: 1, y: 1, z: 1}
+    ChildrenTransformsData:
+    - NodeTransformData:
+        Position: {x: -0.000009505227, y: 0.9303652, z: 0.000008221268}
+        Rotation: {x: 0.01816565, y: 0.18770307, z: 0.016915731, w: 0.98191214}
+        Scale: {x: 1, y: 1, z: 1}
+      ChildrenTransformsData:
+      - NodeTransformData:
+          Position: {x: -0.09633789, y: -0.03273254, z: -0.00000001}
+          Rotation: {x: -0.18714999, y: -0.15586516, z: -0.1597577, w: 0.9566391}
+          Scale: {x: 1, y: 1, z: 1}
+        ChildrenTransformsData:
+        - NodeTransformData:
+            Position: {x: -6.25e-10, y: -0.4173, z: -0.01729965}
+            Rotation: {x: 0.24857108, y: -0.08253049, z: -0.021454955, w: 0.96485275}
+            Scale: {x: 1, y: 1, z: 1}
+          ChildrenTransformsData:
+          - NodeTransformData:
+              Position: {x: -0.00012604937, y: -0.39189434, z: -0.00847687}
+              Rotation: {x: -0.029844776, y: -0.020284547, z: 0.0924679, w: 0.9950616}
+              Scale: {x: 1, y: 1, z: 1}
+            ChildrenTransformsData:
+            - NodeTransformData:
+                Position: {x: 0.00183287, y: -0.12193085, z: 0.082822636}
+                Rotation: {x: 0.016956313, y: 0.00000005300611, z: -0.000000038602327,
+                  w: 0.99985623}
+                Scale: {x: 1, y: 1, z: 1}
+              ChildrenTransformsData:
+              - NodeTransformData:
+                  Position: {x: -0, y: 0, z: 0.18546458}
+                  Rotation: {x: 0, y: -0, z: -0, w: 1}
+                  Scale: {x: 1, y: 1, z: 1}
+                ChildrenTransformsData: []
+      - NodeTransformData:
+          Position: {x: 0.09633789, y: -0.03273254, z: -0.00000001}
+          Rotation: {x: -0.08397477, y: 0.09602186, z: 0.074674465, w: 0.9890156}
+          Scale: {x: 1, y: 1, z: 1}
+        ChildrenTransformsData:
+        - NodeTransformData:
+            Position: {x: 6.25e-10, y: -0.4173, z: -0.01729965}
+            Rotation: {x: 0.19089077, y: -0.063126035, z: 0.016578102, w: 0.97943914}
+            Scale: {x: 1, y: 1, z: 1}
+          ChildrenTransformsData:
+          - NodeTransformData:
+              Position: {x: -0.00012607062, y: -0.39189434, z: -0.00847687}
+              Rotation: {x: -0.12993267, y: 0.005970223, z: -0.10352465, w: 0.9860855}
+              Scale: {x: 1, y: 1, z: 1}
+            ChildrenTransformsData:
+            - NodeTransformData:
+                Position: {x: 0.0018331, y: -0.12193085, z: 0.082822636}
+                Rotation: {x: 0.0023520396, y: 0.00000009721314, z: 0.000000015088371,
+                  w: 0.99999726}
+                Scale: {x: 1, y: 1, z: 1}
+              ChildrenTransformsData:
+              - NodeTransformData:
+                  Position: {x: -0.00003194809, y: 0, z: 0.18546458}
+                  Rotation: {x: 0, y: -0, z: -0, w: 1}
+                  Scale: {x: 1, y: 1, z: 1}
+                ChildrenTransformsData: []
+      - NodeTransformData:
+          Position: {x: -0, y: 0.09226319, z: 0.01577133}
+          Rotation: {x: 0.051349755, y: -0.01185538, z: -0.0003028607, w: 0.9986103}
+          Scale: {x: 1, y: 1, z: 1}
+        ChildrenTransformsData:
+        - NodeTransformData:
+            Position: {x: -0, y: 0.16254029, z: -0.0016560499}
+            Rotation: {x: 0.012621823, y: -0.0031151962, z: 0.0019812426, w: 0.9999136}
+            Scale: {x: 1, y: 1, z: 1}
+          ChildrenTransformsData:
+          - NodeTransformData:
+              Position: {x: -0, y: 0.13639648, z: -0.01292305}
+              Rotation: {x: 0.012615508, y: -0.0032250164, z: 0.0019299535, w: 0.9999134}
+              Scale: {x: 1, y: 1, z: 1}
+            ChildrenTransformsData:
+            - NodeTransformData:
+                Position: {x: -0.06144226, y: 0.10187011, z: -0.037932437}
+                Rotation: {x: 0.026782569, y: 0.0979382, z: 0.03314734, w: 0.9942797}
+                Scale: {x: 1, y: 1, z: 1}
+              ChildrenTransformsData:
+              - NodeTransformData:
+                  Position: {x: -0.12319092, y: -0.011129759, z: -0.01793457}
+                  Rotation: {x: -0.080495656, y: -0.03898916, z: 0.3839109, w: 0.91902816}
+                  Scale: {x: 1, y: 1, z: 1}
+                ChildrenTransformsData: []
+            - NodeTransformData:
+                Position: {x: -0, y: 0.13877442, z: -0.043541867}
+                Rotation: {x: 0.0074554007, y: -0.0074991398, z: 0.0013469813, w: 0.9999432}
+                Scale: {x: 1, y: 1, z: 1}
+              ChildrenTransformsData:
+              - NodeTransformData:
+                  Position: {x: -0, y: 0.04340027, z: 0.00926895}
+                  Rotation: {x: 0.0074554738, y: -0.0074991607, z: 0.0013469934, w: 0.9999432}
+                  Scale: {x: 1, y: 1, z: 1}
+                ChildrenTransformsData: []
+            - NodeTransformData:
+                Position: {x: 0.06140198, y: 0.10187011, z: -0.037932437}
+                Rotation: {x: 0.02585354, y: -0.070634164, z: -0.05090689, w: 0.9958669}
+                Scale: {x: 1, y: 1, z: 1}
+              ChildrenTransformsData:
+              - NodeTransformData:
+                  Position: {x: 0.123231195, y: -0.011129759, z: -0.01793457}
+                  Rotation: {x: -0.050233517, y: 0.026547886, z: -0.3840926, w: 0.92154473}
+                  Scale: {x: 1, y: 1, z: 1}
+                ChildrenTransformsData: []
+    - NodeTransformData:
+        Position: {x: -0, y: 0, z: 0}
+        Rotation: {x: 0, y: -0, z: -0, w: 1}
+        Scale: {x: 1, y: 1, z: 1}
+      ChildrenTransformsData:
+      - NodeTransformData:
+          Position: {x: -0, y: 0, z: 0}
+          Rotation: {x: 0, y: -0, z: -0, w: 1}
+          Scale: {x: 1, y: 1, z: 1}
+        ChildrenTransformsData: []
+      - NodeTransformData:
+          Position: {x: -0, y: 0, z: 0}
+          Rotation: {x: 0, y: -0, z: -0, w: 1}
+          Scale: {x: 1, y: 1, z: 1}
+        ChildrenTransformsData: []
+      - NodeTransformData:
+          Position: {x: -0, y: 0, z: 0}
+          Rotation: {x: 0, y: -0, z: -0, w: 1}
+          Scale: {x: 1, y: 1, z: 1}
+        ChildrenTransformsData: []
+      - NodeTransformData:
+          Position: {x: -0, y: 0, z: 0}
+          Rotation: {x: 0, y: -0, z: -0, w: 1}
+          Scale: {x: 1, y: 1, z: 1}
+        ChildrenTransformsData: []
+      - NodeTransformData:
+          Position: {x: -0, y: 0, z: 0}
+          Rotation: {x: 0, y: -0, z: -0, w: 1}
+          Scale: {x: 1, y: 1, z: 1}
+        ChildrenTransformsData: []
+      - NodeTransformData:
+          Position: {x: -0, y: 0, z: 0}
+          Rotation: {x: 0, y: -0, z: -0, w: 1}
+          Scale: {x: 1, y: 1, z: 1}
+        ChildrenTransformsData: []
+      - NodeTransformData:
+          Position: {x: -0, y: 0, z: 0}
+          Rotation: {x: 0, y: -0, z: -0, w: 1}
+          Scale: {x: 1, y: 1, z: 1}
+        ChildrenTransformsData: []
+      - NodeTransformData:
+          Position: {x: -0, y: 0, z: 0}
+          Rotation: {x: 0, y: -0, z: -0, w: 1}
+          Scale: {x: 1, y: 1, z: 1}
+        ChildrenTransformsData: []
+      - NodeTransformData:
+          Position: {x: -0, y: 0, z: 0}
+          Rotation: {x: 0, y: -0, z: -0, w: 1}
+          Scale: {x: 1, y: 1, z: 1}
+        ChildrenTransformsData: []
+      - NodeTransformData:
+          Position: {x: -0, y: 0, z: 0}
+          Rotation: {x: 0, y: -0, z: -0, w: 1}
+          Scale: {x: 1, y: 1, z: 1}
+        ChildrenTransformsData: []
+      - NodeTransformData:
+          Position: {x: -0, y: 0, z: 0}
+          Rotation: {x: 0, y: -0, z: -0, w: 1}
+          Scale: {x: 1, y: 1, z: 1}
+        ChildrenTransformsData: []

@@ -1,0 +1,11 @@
+{
+  "name": "com.mezookan.transforms-recorder",
+  "displayName": "Transforms Recorder",
+  "version": "1.0.0",
+  "description": "Transforms Recorder",
+  "keywords": [
+    "3d",
+    "modeling"
+  ],
+  "unity": "2019.4"
+}
